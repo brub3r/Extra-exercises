@@ -1,2 +1,2 @@
 # Extra-exercises
-Alguns exercícios feitos por mim
+Alguns exercícios feitos por mim em linguagem C
